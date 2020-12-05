@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d742d09-e664-49f8-b197-4d3bf424b72d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성/2048다시.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성/사다리조작.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성/사다리조작_발전시키자.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성/제출.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/삼성/테트로미노_다시.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Algorithm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/나무 재테크.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/낚시왕 왜틀렸지 개빡침.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/마법사 상어와 토네이도.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/마법사 상어와 파이어볼.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/비교.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/컨베이어 벨트 위의 로봇.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/삼성/큐빙 다시.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성/2048.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/2048_틀림.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성/사다리조작_발전시키자.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/사다리조작_발전시키자.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성/제출.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/제출.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/삼성/큐빙x.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/큐빙노가다문제안풀어.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +44,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>check</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -63,7 +61,91 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/삼성/2048다시.py" />
   </component>
-  <component name="RunManager" selected="Python.사다리조작">
+  <component name="RunManager" selected="Python.마법사 상어와 토네이도">
+    <configuration name="마법사 상어와 파이어볼" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/마법사 상어와 파이어볼.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="낚시왕 왜틀렸지 개빡침" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\hellodongsik\Desktop\Go-Algorithm\삼성\낚시왕 왜틀렸지 개빡침.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="나무 재테크" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/나무 재테크.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="마법사 상어와 토네이도" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/마법사 상어와 토네이도.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="제출" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="사다리조작" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -97,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/사다리조작.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/비교.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2048다시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="비교" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,49 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/2048다시.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="포도주시식_쉽게" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/포도주시식_쉽게.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="테트로미노_다시" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Algorithm" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/테트로미노_다시.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/비교.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +210,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.포도주시식_쉽게" />
-      <item itemvalue="Python.2048다시" />
-      <item itemvalue="Python.테트로미노_다시" />
       <item itemvalue="Python.제출" />
-      <item itemvalue="Python.사다리조작" />
+      <item itemvalue="Python.비교" />
+      <item itemvalue="Python.마법사 상어와 파이어볼" />
+      <item itemvalue="Python.낚시왕 왜틀렸지 개빡침" />
+      <item itemvalue="Python.마법사 상어와 토네이도" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.사다리조작" />
+        <item itemvalue="Python.마법사 상어와 토네이도" />
+        <item itemvalue="Python.비교" />
         <item itemvalue="Python.제출" />
-        <item itemvalue="Python.테트로미노_다시" />
-        <item itemvalue="Python.2048다시" />
-        <item itemvalue="Python.포도주시식_쉽게" />
+        <item itemvalue="Python.낚시왕 왜틀렸지 개빡침" />
+        <item itemvalue="Python.마법사 상어와 파이어볼" />
       </list>
     </recent_temporary>
   </component>
@@ -210,6 +250,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -223,25 +264,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="558" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606887827337" />
-    <state width="974" height="199" key="GridCell.Tab.0.bottom" timestamp="1606969999681">
+    <state width="1118" height="212" key="GridCell.Tab.0.bottom" timestamp="1607174775572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606969999681" />
-    <state width="974" height="199" key="GridCell.Tab.0.center" timestamp="1606969999680">
+    <state width="1118" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607174775572" />
+    <state width="1118" height="212" key="GridCell.Tab.0.center" timestamp="1607174775572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="199" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606969999680" />
-    <state width="974" height="199" key="GridCell.Tab.0.left" timestamp="1606969999679">
+    <state width="1118" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607174775572" />
+    <state width="1118" height="212" key="GridCell.Tab.0.left" timestamp="1607174775572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="199" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606969999679" />
-    <state width="974" height="199" key="GridCell.Tab.0.right" timestamp="1606969999680">
+    <state width="1118" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607174775572" />
+    <state width="1118" height="212" key="GridCell.Tab.0.right" timestamp="1607174775572">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="974" height="199" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606969999680" />
+    <state width="1118" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607174775572" />
+    <state width="1224" height="251" key="GridCell.Tab.1.bottom" timestamp="1607172292863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1224" height="251" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607172292863" />
+    <state width="1224" height="251" key="GridCell.Tab.1.center" timestamp="1607172292862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1224" height="251" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607172292862" />
+    <state width="1224" height="251" key="GridCell.Tab.1.left" timestamp="1607172292862">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1224" height="251" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607172292862" />
+    <state width="1224" height="251" key="GridCell.Tab.1.right" timestamp="1607172292863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1224" height="251" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607172292863" />
     <state x="301" y="39" key="SettingsEditor" timestamp="1606835444251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="301" y="39" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606835444251" />
+    <state x="741" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1607157563706">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="741" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1607157563706" />
   </component>
 </project>
