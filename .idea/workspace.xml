@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d742d09-e664-49f8-b197-4d3bf424b72d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/삼성/마법사 상어와 토네이도 쉽게.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/신나는 함수 실행.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/삼성/마법사 상어와 토네이도.py" beforeDir="false" afterPath="$PROJECT_DIR$/삼성/마법사 상어와 토네이도(풀다말았을걸).py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +51,8 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/삼성/2048다시.py" />
   </component>
-  <component name="RunManager" selected="Python.마법사 상어와 토네이도 쉽게">
-    <configuration name="마법사 상어와 토네이도" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.신나는 함수 실행">
+    <configuration name="신나는 함수 실행" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Algorithm" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/삼성" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/삼성/마법사 상어와 토네이도.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/신나는 함수 실행.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,14 +242,15 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.마법사 상어와 토네이도 쉽게" />
-      <item itemvalue="Python.마법사 상어와 토네이도" />
       <item itemvalue="Python.나무 재테크" />
       <item itemvalue="Python.제출" />
       <item itemvalue="Python.test" />
+      <item itemvalue="Python.마법사 상어와 토네이도 쉽게" />
+      <item itemvalue="Python.신나는 함수 실행" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.신나는 함수 실행" />
         <item itemvalue="Python.마법사 상어와 토네이도 쉽게" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.제출" />
@@ -296,22 +295,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="558" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606887827337" />
-    <state width="1119" height="202" key="GridCell.Tab.0.bottom" timestamp="1609746191412">
+    <state width="1120" height="202" key="GridCell.Tab.0.bottom" timestamp="1609830251207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1119" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609746191412" />
-    <state width="1119" height="202" key="GridCell.Tab.0.center" timestamp="1609746191411">
+    <state width="1120" height="202" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1609830251207" />
+    <state width="1120" height="202" key="GridCell.Tab.0.center" timestamp="1609830251207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1119" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609746191411" />
-    <state width="1119" height="202" key="GridCell.Tab.0.left" timestamp="1609746191411">
+    <state width="1120" height="202" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1609830251207" />
+    <state width="1120" height="202" key="GridCell.Tab.0.left" timestamp="1609830251207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1119" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609746191411" />
-    <state width="1119" height="202" key="GridCell.Tab.0.right" timestamp="1609746191411">
+    <state width="1120" height="202" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1609830251207" />
+    <state width="1120" height="202" key="GridCell.Tab.0.right" timestamp="1609830251207">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1119" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609746191411" />
+    <state width="1120" height="202" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1609830251207" />
     <state width="1224" height="251" key="GridCell.Tab.1.bottom" timestamp="1607315673274">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
